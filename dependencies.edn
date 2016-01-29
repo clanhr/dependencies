@@ -24,7 +24,8 @@
         [ring/ring-json "0.4.0"]
         [ring-cors "0.1.7"]]
 
- :aleph [[aleph "0.4.0"]]
+ :aleph [[potemkin "0.4.3"]
+         [aleph "0.4.0"]]
 
  :security [[org.bouncycastle/bcprov-jdk15on "1.54"]
             [buddy/buddy-core "0.9.0"]
