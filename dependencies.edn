@@ -21,7 +21,7 @@
         [ring/ring-json "0.4.0"]
         [ring-cors "0.1.7"]]
 
- :security [[org.bouncycastle/bcprov-jdk15on "1.52"]
+ :security [[org.bouncycastle/bcprov-jdk15on "1.54"]
             [buddy/buddy-core "0.9.0"]
             [buddy/buddy-hashers "0.11.0"]]
 
