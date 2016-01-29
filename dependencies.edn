@@ -37,4 +37,5 @@
           [clanhr/logger "0.4.2"]
           [clanhr/ical "0.1.0"]
           [clanhr/work-days "0.2.0"]
+          [clanhr/ring-test-client "0.3.0"]
           [clanhr/analytics "1.7.0"]]}
