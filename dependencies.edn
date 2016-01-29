@@ -1,0 +1,37 @@
+{:clojure [[org.clojure/clojure "1.8.0"]
+           [org.clojure/core.async "0.1.346.0-17112a-alpha"]
+           [org.clojure/tools.logging "0.3.1"]
+           [org.clojure/data.json "0.2.6"]]
+
+ :common [[com.novemberain/validateur "2.5.0"]
+          [clj-time "0.11.0"]
+          [clj-stacktrace "0.2.8"]
+          [pandect "0.5.4"]
+          [mvxcvi/puget "1.0.0"]
+          [clj-http "2.0.1"]
+          [compojure "1.4.0"]
+          [environ "1.0.2"]]
+
+ :postgres [[postgresql "9.3-1102.jdbc41"]
+            [clanhr/postgres-gateway "1.6.0" :exclusions [[io.netty/netty-handler]]]
+            [ragtime "0.5.2"]]
+
+ :ring [[ring/ring-core "1.4.0"]
+        [ring/ring-jetty-adapter "1.4.0"]
+        [ring/ring-json "0.4.0"]
+        [ring-cors "0.1.7"]]
+
+ :security [[buddy/buddy-core "0.9.0"]
+            [buddy/buddy-hashers "0.11.0"]]
+
+ :clanhr [[clanhr/auth "1.10.0" :exclusions [org.bouncycastle/bcprov-jdk15]]
+          [clanhr/clanhr-api "1.5.0"]
+          [clanhr/result "0.10.3"]
+          [clanhr/i18n "1.7.0"]
+          [clanhr/reply "0.9.0"]
+          [clanhr/validators "0.5.2"]
+          [clanhr/clanhr-api "1.5.0"]
+          [clanhr/clanhr-api "1.5.0"]
+          [clanhr/memory-gateway "0.9.0"]
+          [clanhr/logger "0.4.2"]
+          [clanhr/analytics "1.7.0"]]}
