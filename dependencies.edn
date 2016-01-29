@@ -21,7 +21,8 @@
         [ring/ring-json "0.4.0"]
         [ring-cors "0.1.7"]]
 
- :security [[buddy/buddy-core "0.9.0"]
+ :security [[org.bouncycastle/bcprov-jdk15on "1.52"]
+            [buddy/buddy-core "0.9.0"]
             [buddy/buddy-hashers "0.11.0"]]
 
  :clanhr [[clanhr/auth "1.10.0"]
