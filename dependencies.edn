@@ -24,7 +24,7 @@
  :security [[buddy/buddy-core "0.9.0"]
             [buddy/buddy-hashers "0.11.0"]]
 
- :clanhr [[clanhr/auth "1.10.0" :exclusions [org.bouncycastle/bcprov-jdk15]]
+ :clanhr [[clanhr/auth "1.10.0"]
           [clanhr/clanhr-api "1.5.0"]
           [clanhr/result "0.10.3"]
           [clanhr/i18n "1.7.0"]
