@@ -22,6 +22,7 @@
  :ring [[ring/ring-core "1.4.0"]
         [ring/ring-jetty-adapter "1.4.0"]
         [ring/ring-json "0.4.0"]
+        [ring/ring-codec "1.0.0"]
         [ring-cors "0.1.7"]]
 
  :aleph [[potemkin "0.4.3"]
