@@ -9,15 +9,15 @@
           [clj-stacktrace "0.2.8"]
           [pandect "0.5.4"]
           [mvxcvi/puget "1.0.0"]
-          [clj-http "2.0.1"]
+          [clj-http "2.1.0"]
           [compojure "1.5.0"]
           [environ "1.0.2"]]
 
- :document-generation [[dk.ative/docjure "1.9.0"]]
+ :document-generation [[dk.ative/docjure "1.10.0"]]
 
  :postgres [[postgresql "9.3-1102.jdbc41"]
             [clanhr/postgres-gateway "1.6.0" :exclusions [[io.netty/netty-handler]]]
-            [ragtime "0.5.2"]]
+            [ragtime "0.5.3"]]
 
  :ring [[ring/ring-core "1.4.0"]
         [ring/ring-jetty-adapter "1.4.0"]
@@ -30,8 +30,8 @@
 
  :security [[org.bouncycastle/bcprov-jdk15on "1.54"]
             [clj-jwt "0.1.1"]
-            [buddy/buddy-core "0.9.0"]
-            [buddy/buddy-hashers "0.11.0"]]
+            [buddy/buddy-core "0.11.0"]
+            [buddy/buddy-hashers "0.13.0"]]
 
  :clanhr [[clanhr/auth "1.11.4"]
           [clanhr/result "0.11.0"]
