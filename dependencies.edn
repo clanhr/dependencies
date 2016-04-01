@@ -45,4 +45,4 @@
           [clanhr/ical "0.1.1"]
           [clanhr/work-days "0.8.0"]
           [clanhr/ring-test-client "0.3.0"]
-          [clanhr/analytics "1.7.1"]]}
+          [clanhr/analytics "1.8.0"]]}
