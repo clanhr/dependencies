@@ -19,7 +19,7 @@
  :document-generation [[dk.ative/docjure "1.10.0"]]
 
  :postgres [[postgresql "9.3-1102.jdbc41"]
-            [clanhr/postgres-gateway "1.7.1" :exclusions [[io.netty/netty-handler]]]
+            [clanhr/postgres-gateway "1.6.0" :exclusions [[io.netty/netty-handler]]]
             [ragtime "0.5.3"]]
 
  :ring [[ring/ring-core "1.4.0"]
