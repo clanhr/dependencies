@@ -49,4 +49,4 @@
           [clanhr/work-days "0.8.0"]
           [clanhr/ring-test-client "0.3.0"]
           [clanhr/analytics "1.9.1"]
-          [clanhr/new-reliquary "1.0.0"]]}
+          [clanhr/new-reliquary "1.0.1"]]}
