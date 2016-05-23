@@ -30,7 +30,7 @@
         [ring-cors "0.1.7"]]
 
  :aleph [[potemkin "0.4.3"]
-         [aleph "0.4.1-beta7"]]
+         [aleph "0.4.1"]]
 
  :security [[org.bouncycastle/bcprov-jdk15on "1.54"]
             [clj-jwt "0.1.1"]
