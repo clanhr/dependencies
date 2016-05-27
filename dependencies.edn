@@ -21,7 +21,7 @@
 
  :postgres [[postgresql "9.3-1102.jdbc41"]
             [clanhr/postgres-gateway "1.8.0" :exclusions [[io.netty/netty-handler]]]
-            [ragtime "0.5.3"]]
+            [ragtime "0.6.0"]]
 
  :ring [[ring/ring-core "1.4.0"]
         [ring/ring-jetty-adapter "1.4.0"]
