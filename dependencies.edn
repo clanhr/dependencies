@@ -39,7 +39,7 @@
 
  :clanhr [[clanhr/auth "1.12.0"]
           [clanhr/result "0.11.0"]
-          [clanhr/i18n "1.17.0"]
+          [clanhr/i18n "1.18.0"]
           [clanhr/reply "1.0.0"]
           [clanhr/validators "0.5.2"]
           [clanhr/clanhr-api "1.8.0"]
