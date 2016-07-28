@@ -37,7 +37,7 @@
             [buddy/buddy-core "0.11.0"]
             [buddy/buddy-hashers "0.13.0"]]
 
- :clanhr [[clanhr/auth "1.13.0"]
+ :clanhr [[clanhr/auth "1.13.1"]
           [clanhr/result "0.11.0"]
           [clanhr/i18n "1.19.0"]
           [clanhr/reply "1.0.0"]
