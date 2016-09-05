@@ -41,7 +41,7 @@
           [clanhr/result "0.11.0"]
           [clanhr/i18n "1.19.0"]
           [clanhr/reply "1.0.0"]
-          [clanhr/validators "0.5.2"]
+          [clanhr/validators "0.6.0"]
           [clanhr/clanhr-api "1.10.1"]
           [clanhr/memory-gateway "0.9.0"]
           [clanhr/logger "0.5.0"]
