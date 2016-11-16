@@ -10,6 +10,7 @@
           [clj-time "0.11.0"]
           [clj-stacktrace "0.2.8"]
           [pandect "0.5.4"]
+          [com.taoensso/timbre "4.3.1"]
           [commons-codec/commons-codec "1.9"]
           [clj-aws-s3 "0.3.10" :exclusions [joda-time]]
           [mvxcvi/puget "1.0.0"]
