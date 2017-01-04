@@ -16,7 +16,7 @@
           [clj-aws-s3 "0.3.10" :exclusions [joda-time]]
           [mvxcvi/puget "1.0.0"]
           [clj-http "2.1.0"]
-          [weareswat/request-utils "0.5.0"]
+          [weareswat/request-utils "0.7.0"]
           [compojure "1.5.0"]
           [environ "1.0.2"]]
 
