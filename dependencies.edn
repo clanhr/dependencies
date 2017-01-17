@@ -52,5 +52,5 @@
           [clanhr/ical "0.1.2"]
           [clanhr/work-days "0.9.0"]
           [clanhr/ring-test-client "0.4.0"]
-          [clanhr/analytics "1.11.0"]
+          [clanhr/analytics "2.0.0"]
           [clanhr/new-reliquary "1.0.1"]]}
